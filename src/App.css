@@ -5,7 +5,7 @@
 
 
 .App-header {
-  background-color: #282c34;
+  background-color: #070f13;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -20,8 +20,8 @@
 }
 
 /* Button Style */
-a.moreButton:link, a.moreButton:visited {
-  background-color: rgb(17, 50, 65);
+a.backButton:link, a.backButton:visited {
+  background-color: #070f13;
   color: white;
   padding: 14px 25px;
   text-align: center;
@@ -30,9 +30,9 @@ a.moreButton:link, a.moreButton:visited {
   border-radius: 5px;
 }
 
-a.moreButton:hover, a.moreButton:active {
+a.backButton:hover, a.backButton:active {
   background-color: white;
-  color: rgb(17, 50, 65);
+  color: #070f13;
   border: .5px solid #133957;
   border-radius: 5px;
 }

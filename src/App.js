@@ -15,13 +15,13 @@ class App extends React.Component{
   render () {
     return (
       <div>
-        
+        <header>Projects Page</header>
         {this.state.data.map((producers, i) => <ProjectComp key = {i} producers = {producers} data={this.state} />)}
 
         <div className="container">
           <div className="row">
             <div className="col-lg-12 text-center">
-              <a className="moreButton" href="https://amakaanikwe.github.io/" type="button" target="_blank">Back to Site</a>
+              <a className="backButton" href="https://amakaanikwe.github.io/" type="button" target="_blank">Back to Site</a>
             </div>
           </div>
         </div>
