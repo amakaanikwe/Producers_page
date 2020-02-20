@@ -22,6 +22,7 @@ class App extends React.Component{
           <div className="row">
             <div className="col-lg-12 text-center">
               <a className="backButton" href="https://amakaanikwe.github.io/" type="button" target="_blank">Back to Site</a>
+              {/* <a className="backButton" href="https://amakaanikwe.github.io/" type="button" target="_blank">Download Resume</a> */}
             </div>
           </div>
         </div>

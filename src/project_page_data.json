@@ -27,7 +27,7 @@
         "id": 4,
         "title": "Access Financial",
         "image": "https://www.dropbox.com/s/6no8o6uslo65grl/landingImageappicon.jpg?raw=1",
-        "features": ["Mobile first responsive web design","Coming Soon","","",""],
+        "features": ["Mobile first responsive web design","Coming Soon","Coming Soon","Coming Soon","Coming Soon"],
         "git": "https://github.com/amakaanikwe/Access-Financial",
         "site": "https://access-financial-eb167.firebaseapp.com/"
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "title": "Producer Display/ React",
         "image": "https://www.dropbox.com/s/6no8o6uslo65grl/landingImageappicon.jpg?raw=1",
-        "features": ["Mobile first responsive web design","Coming Soon","","",""],
+        "features": ["Mobile first responsive web design","Coming Soon","Coming Soon","Coming Soon","Coming Soon"],
         "git": "",
         "site": ""
     }
