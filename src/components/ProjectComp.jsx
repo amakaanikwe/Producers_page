@@ -21,9 +21,9 @@ class ProjectComponent extends React.Component{
                   </div>
                   <div className="col-sm-8" style={{paddingLeft: 0 }}>
                     <h2>{this.props.producers.title}</h2>
-                    <p>
-                        {this.props.producers.features}
-                    </p>
+                    <ul>
+                      {this.props.producers.features.map((listItem, i) => <li key = {i} listItem = {listItem}>{listItem}</li>)}
+                    </ul>
                     <FooterComp data={this.props} />
                   </div>
               </div>
