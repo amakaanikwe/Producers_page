@@ -21,14 +21,13 @@ class ProjectComponent extends React.Component{
                     /></a>
                   </div>
                   <div className="col-sm-8 secPosition" style={{paddingLeft: 0 }}>
+                    <div id="infoSection">
+                      <h1>{this.props.producers.title}</h1>
+                      <ul>
+                        {this.props.producers.features.map((listItem, i) => <li key = {i} listItem = {listItem}>{listItem}</li>)}
+                      </ul>
+                    </div>
 
-                    <h2>{this.props.producers.title}</h2>
-                    <ul>
-                      {this.props.producers.features.map((listItem, i) => <li key = {i} listItem = {listItem}>{listItem}</li>)}
-                    </ul>
-                    <br />
-                    <br />
-                    <br />
                     <FooterComp data={this.props} />
 
                   </div>
