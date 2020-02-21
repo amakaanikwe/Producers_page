@@ -12,6 +12,7 @@ class ProjectComponent extends React.Component{
       <React.Fragment>
           <section className="container">
               <div className="row">
+
                   <div className="col-sm-4" style={{paddingRight: 0 }}>
                     <a href={this.props.producers.site}><img
                     className="img-responsive"
@@ -19,13 +20,19 @@ class ProjectComponent extends React.Component{
                     width="350"
                     /></a>
                   </div>
-                  <div className="col-sm-8" style={{paddingLeft: 0 }}>
+                  <div className="col-sm-8 secPosition" style={{paddingLeft: 0 }}>
+
                     <h2>{this.props.producers.title}</h2>
                     <ul>
                       {this.props.producers.features.map((listItem, i) => <li key = {i} listItem = {listItem}>{listItem}</li>)}
                     </ul>
+                    <br />
+                    <br />
+                    <br />
                     <FooterComp data={this.props} />
+
                   </div>
+
               </div>
           </section>
 
