@@ -6,8 +6,16 @@ header {
     color: white;
   }
 
+.secPosition {
+    position: relative;
+}
+
 .panel-footer {
     background-color: #070f13;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
 }
 
   
