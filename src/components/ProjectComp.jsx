@@ -28,7 +28,7 @@ class ProjectComponent extends React.Component{
                       </ul>
                     </div>
 
-                    <FooterComp data={this.props} />
+                    <FooterComp data={this.props.producers} />
 
                   </div>
 
