@@ -8,7 +8,7 @@ class FooterComp extends React.Component{
 
     return (
             <footer>
-                <div className="panel-footer">
+                <div className="panel-footer text-center">
                     <a href={this.props.data.git}>
                         <button class="btn btn-lg">
                             <i className="fab fa-github" aria-hidden="true"></i>
