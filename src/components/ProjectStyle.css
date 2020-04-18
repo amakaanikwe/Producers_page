@@ -1,34 +1,32 @@
 header {
-    background-color: #070f13;
-    padding: 30px;
-    text-align: center;
-    font-size: 35px;
-    color: white;
-  }
+  background-color: #070f13;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
 
 #infoSection {
-    padding: 35px;
+  padding: 35px;
 }
 
 .secPosition {
-    position: relative;
+  position: relative;
 }
 
 .panel-footer {
-    color: white;
-    background-color: #070f13;
-    position: absolute;
-    width: 100%;
-    bottom: 0;
-    left: 0;
+  color: white;
+  background-color: #070f13;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
 }
 
 footer i {
-    color: rgb(192, 185, 185);
+  color: rgb(192, 185, 185);
 }
 
 footer i:hover {
-    color: rgba(117, 115, 115, 0.959);
+  color: rgba(117, 115, 115, 0.959);
 }
-
-  
