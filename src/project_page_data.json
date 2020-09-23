@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Brooklyn Brew",
         "image": "https://dl.dropboxusercontent.com/s/506stqyynhnzscq/coffeeappicon.jpg?dl=0",
-        "features": ["Mobile first responsive web design","React components used in menu section","React based Order Now page added to menu section","Code features ES6 syntax","Firebase backend"],
+        "features": ["Mobile first responsive web design","React components used in menu section","React based Order Now page added to menu section","Code has been refactored to include Redux and Hooks","Code features ES6 syntax","Firebase backend"],
         "git": "https://github.com/amakaanikwe/coffee-shop",
         "site": "https://master.d2oqk1scuumzni.amplifyapp.com/"
     },
