@@ -3,15 +3,17 @@
         "id": 1,
         "title": "Brooklyn Brew",
         "image": "https://dl.dropboxusercontent.com/s/506stqyynhnzscq/coffeeappicon.jpg?dl=0",
-        "features": ["Mobile first responsive web design","React components used in menu section","React based Order Now page added to menu section","Code has been refactored to include Redux and Hooks","Code features ES6 syntax","Firebase backend"],
+        "summary": "",
+        "features": ["Mobile first responsive web design","React based Menu/Order Now section","Refactored code to include Redux and Hooks","Code features ES6 syntax","Firebase backend"],
         "git": "https://github.com/amakaanikwe/coffee-shop",
         "site": "https://master.d2oqk1scuumzni.amplifyapp.com/"
     },
     {
         "id": 2,
-        "title": "Producer Display/ AngularJS",
+        "title": "Producer Display/ Angular.JS",
         "image": "https://dl.dropboxusercontent.com/s/s9uysiwwk0f2xw7/ProducerSite_Icon.png?dl=0",
-        "features": ["Mobile first responsive web design","The AngularJS  framework powers this web app as part of the mvc architectural pattern","Features deep linking and routing","Code has been refactored to include latest  ES6 syntax", "Firebase backend"],
+        "summary": "",
+        "features": ["Mobile first responsive web design","The Angular.JS  framework powers this web app as part of the mvc architectural pattern","Features Log in/Sign up functionality","Features deep linking and routing","Code has been refactored to include latest ES6 syntax", "Firebase backend"],
         "git": "https://github.com/amakaanikwe/Bric-Sheets",
         "site": "https://producer-app-13eef.firebaseapp.com"
     },
@@ -19,6 +21,7 @@
         "id": 3,
         "title": "Portfolio Site",
         "image": "https://dl.dropboxusercontent.com/s/6no8o6uslo65grl/landingImageappicon.jpg?dl=0",
+        "summary": "",
         "features": ["Mobile first responsive web design","Features React in Projects Page","Parallax scrolling", "Fade in navbar & title, scrollspy added to create the feeling of interactivity","Features HTML5 & CSS3 design standards","Sass is used to refactor CSS","Node/Express Back-End","Contact to Gmail functionality","Github backend"],
         "git": "https://github.com/amakaanikwe/Portfolio-Site",
         "site": "https://amakaanikwe.github.io/"
@@ -27,6 +30,7 @@
         "id": 4,
         "title": "Filmmaker's Portal",
         "image": "https://dl.dropboxusercontent.com/s/s9uysiwwk0f2xw7/ProducerSite_Icon.png?dl=0",
+        "summary": "",
         "features": ["Mobile first responsive web design","The React framework powers this web app as part of the mvc architectural pattern","Redux and Hooks used in this application","Features deep linking and routing","Code has been refactored to include latest  ES6 syntax"],
         "git": "https://github.com/amakaanikwe/bric_sheets_react",
         "site": ""
@@ -35,6 +39,7 @@
         "id": 5,
         "title": "Access Financial",
         "image": "https://dl.dropboxusercontent.com/s/3du40e0w9u05v1g/people-silhouette-during-sunset-853168_web_520x600.jpg?dl=0",
+        "summary": "",
         "features": ["Mobile first responsive web design","Code features ES6 syntax","Features HTML5 & CSS3 design standards","Code features ES6 syntax","Firebase backend"],
         "git": "https://github.com/amakaanikwe/Access-Financial",
         "site": "https://access-financial-eb167.firebaseapp.com/"
