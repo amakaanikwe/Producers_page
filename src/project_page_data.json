@@ -4,7 +4,7 @@
         "title": "Brooklyn Brew",
         "image": "https://dl.dropboxusercontent.com/s/506stqyynhnzscq/coffeeappicon.jpg?dl=0",
         "summary": "",
-        "features": ["Mobile first responsive web design","React based Menu/Order Now section","Refactored code to include Redux and Hooks","Code features ES6 syntax","Firebase backend"],
+        "features": ["Mobile first responsive web design","React based Menu/Order Now section","Refactored code to include Redux and Hooks","Code features ES6 syntax","AWS backend"],
         "git": "https://github.com/amakaanikwe/coffee-shop",
         "site": "https://master.d2oqk1scuumzni.amplifyapp.com/"
     },
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "title": "Filmmaker's Portal",
-        "image": "https://dl.dropboxusercontent.com/s/s9uysiwwk0f2xw7/ProducerSite_Icon.png?dl=0",
+        "image": "https://dl.dropboxusercontent.com/s/ppph4ljsj6iq8k8/FilmmakersPortal_527x600.jpg?dl=0",
         "summary": "",
         "features": ["Mobile first responsive web design","The React framework powers this web app as part of the mvc architectural pattern","Redux and Hooks used in this application","Features deep linking and routing","Code has been refactored to include latest  ES6 syntax"],
         "git": "https://github.com/amakaanikwe/bric_sheets_react",
@@ -44,7 +44,6 @@
         "git": "https://github.com/amakaanikwe/Access-Financial",
         "site": "https://accessfinsurance.com/"
     }
-
 
 
 ]
