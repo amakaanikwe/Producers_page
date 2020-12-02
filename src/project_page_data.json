@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Brooklyn Brew",
+        "title": "Brooklyn Brew/React.JS",
         "image": "https://dl.dropboxusercontent.com/s/506stqyynhnzscq/coffeeappicon.jpg?dl=0",
         "summary": "",
         "features": ["UI Design", "UX Arcitechture", "Mobile first responsive web design","React based Menu/Order Now section","Refactored code to include Redux and Hooks","Code features ES6 syntax","AWS backend"],
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "title": "Portfolio Site",
+        "title": "Portfolio Site/React.JS",
         "image": "https://dl.dropboxusercontent.com/s/6no8o6uslo65grl/landingImageappicon.jpg?dl=0",
         "summary": "",
         "features": ["UI Design", "UX Arcitechture","Mobile first responsive web design","Features React in Projects Page","Parallax scrolling", "Fade in navbar & title, scrollspy added to create the feeling of interactivity","Features HTML5 & CSS3 design standards","Sass is used to refactor CSS","Node/Express Back-End","Contact to Gmail functionality","Github backend"],
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "title": "Filmmaker's Portal",
+        "title": "Filmmaker's Portal CMS/React.JS",
         "image": "https://dl.dropboxusercontent.com/s/ppph4ljsj6iq8k8/FilmmakersPortal_527x600.jpg?dl=0",
         "summary": "",
         "features": ["Mobile first responsive web design","The React framework powers this web app as part of the mvc architectural pattern","Redux and Hooks used in this application","Features deep linking and routing","Code has been refactored to include latest  ES6 syntax"],
