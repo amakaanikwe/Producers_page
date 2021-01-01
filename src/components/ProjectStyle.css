@@ -1,9 +1,24 @@
+body {
+  font-family: "helvetica Neue", Helvetica, Arial;
+  font-size: 14px;
+  color:#333;
+  background-color: #e6e6e6;
+}
+
+/* Header Style */
 header {
-  background-color: #070f13;
+  background-color: #878787;
   padding: 30px;
   text-align: center;
-  font-size: 35px;
+  font-size: 45px;
   color: white;
+  border-bottom: solid black 3px;
+}
+
+/* Section Style  */
+
+.sectionContainer {
+  background-color: #F3FAE1;
 }
 
 #infoSection {
@@ -14,6 +29,15 @@ header {
   position: relative;
 }
 
+/* Button Style */
+.btn-group-lg>.btn, .btn-lg {
+  padding: none;
+  font-size: 18px;
+  line-height: 1.3333333;
+  border-radius: 6px;
+}
+
+/* Footer Style */
 .panel-footer {
   color: white;
   background-color: #070f13;
