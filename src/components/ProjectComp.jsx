@@ -5,10 +5,10 @@ import FooterComp from "./FooterComp.jsx";
 class ProjectComponent extends React.Component {
   render() {
     return (
-      <React.Fragment>
-        <section className="container">
+      <>
+        <section className="container sectionContainer">
           <div className="row">
-            <div className="col-sm-4" style={{ paddingRight: 0 }}>
+            <div className="col-sm-4" style={{ paddingRight: 0, paddingLeft: 0 }}>
               <a href={this.props.producers.site}>
                 <img
                   className="img-responsive"
@@ -34,7 +34,7 @@ class ProjectComponent extends React.Component {
             </div>
           </div>
         </section>
-      </React.Fragment>
+      </>
     );
   }
 }
