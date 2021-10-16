@@ -10,7 +10,7 @@ header {
   background-color: #878787;
   padding: 30px;
   text-align: center;
-  font-size: 45px;
+  font-size: 70px;
   color: white;
   border-bottom: solid black 3px;
 }
@@ -29,6 +29,10 @@ header {
   position: relative;
 }
 
+.rowStyle {
+  border-bottom: solid 3px black;
+}
+
 /* Button Style */
 .btn-group-lg>.btn, .btn-lg {
   padding: 0px 16px;
@@ -40,7 +44,7 @@ header {
 /* Footer Style */
 .panel-footer {
   color: white;
-  background-color: #070f13;
+  background-color: #F3FAE1; 
   position: absolute;
   width: 100%;
   bottom: 0;
@@ -48,9 +52,9 @@ header {
 }
 
 footer i {
-  color: rgb(192, 185, 185);
+  color: black;
 }
 
 footer i:hover {
-  color: rgba(117, 115, 115, 0.959);
+  color: rgba(117, 115, 115, 0.959); 
 }
