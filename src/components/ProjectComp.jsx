@@ -7,7 +7,7 @@ class ProjectComponent extends React.Component {
     return (
       <>
         <section className="container sectionContainer">
-          <div className="row">
+          <div className="row rowStyle">
             <div className="col-sm-4" style={{ paddingRight: 0, paddingLeft: 0 }}>
               <a href={this.props.producers.site}>
                 <img
